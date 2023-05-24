@@ -1,8 +1,8 @@
 {
-    "name": "thanktter/laravel",
+    "name": "dev-base/laravel",
     "type": "project",
-    "description": "thanktter for laravel",
-    "keywords": ["thanktter", "laravel"],
+    "description": "dev-base for laravel",
+    "keywords": ["dev-base", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
